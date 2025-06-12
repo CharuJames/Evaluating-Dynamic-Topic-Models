@@ -3,7 +3,9 @@ A DTM captures the evolution of topics over time in a corpus. This paper propose
 
 # References
 If you find this helpful, feel free to cite the following papers.
+
 **DTQ**
+
 @inproceedings{karakkaparambil-james-etal-2024-evaluating,
     title = "Evaluating Dynamic Topic Models",
     author = "Karakkaparambil James, Charu  and
