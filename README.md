@@ -6,6 +6,7 @@ If you find this helpful, feel free to cite the following papers.
 
 **DTQ**
 
+```bibtex
 @inproceedings{karakkaparambil-james-etal-2024-evaluating,
     title = "Evaluating Dynamic Topic Models",
     author = "Karakkaparambil James, Charu  and
