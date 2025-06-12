@@ -1,0 +1,11 @@
+name: DTQ
+channels:
+  - defaults
+dependencies:
+  - python=3.6.13
+  - numpy
+  - pandas=1.1.5
+  - gensim=3.8.3
+  - scipy
+  - matplotlib
+  - fsspec
