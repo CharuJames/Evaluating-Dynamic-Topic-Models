@@ -8,6 +8,13 @@ Create & activate Conda env
 conda env create -f environment.yml
 conda activate DTQ
 ```
+
+## Running the Code
+
+```
+python main.py
+```
+
 ## Citation
 If you find this helpful, feel free to cite the following papers.
 
