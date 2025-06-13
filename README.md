@@ -12,7 +12,9 @@ conda activate DTQ
 ## Running the Code
 
 ```
-python main.py
+python get_topics.py config.json
+
+python main.py config.json
 ```
 
 ## Citation
