@@ -1,0 +1,10 @@
+{
+  "input_dir": "path/to/topics",
+  "n_topics": 50,
+  "n_words": 10,
+  "corpus_csv": "path/to/refCorpus.csv",
+  "topics_npy": "path/to/topics.npy",
+  "topn": 10,
+  "coherence_types": ["c_npmi"],
+  "output_dir": "path/to/results"
+}
