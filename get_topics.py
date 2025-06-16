@@ -11,7 +11,6 @@ def load_config(config_path: Path):
       - input_dir: str (path to directory containing .txt topic files)
       - n_topics: int (number of topics per time slice)
       - n_words: int (number of top words per topic)
-      - model_type: str ('DETM' or 'DLDA')
       - output_dir: str (directory to save the resulting NumPy file)
     """
     if not config_path.is_file():
