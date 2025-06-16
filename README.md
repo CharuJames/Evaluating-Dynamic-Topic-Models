@@ -8,6 +8,15 @@ Create & activate Conda env
 conda env create -f environment.yml
 conda activate DTQ
 ```
+
+## Running the Code
+
+```
+python get_topics.py config.json
+
+python main.py config.json
+```
+
 ## Citation
 If you find this helpful, feel free to cite the following papers.
 
